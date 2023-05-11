@@ -55,9 +55,6 @@ namespace StudyDesignPattern._1_单一职责与开放封闭原则.UsePattern
     }
 
 
-
-
-
     public interface IBankProcess
     {
         void BankProcess();

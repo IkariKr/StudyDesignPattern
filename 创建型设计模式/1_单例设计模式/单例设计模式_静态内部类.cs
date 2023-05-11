@@ -21,7 +21,7 @@ namespace StudyDesignPattern.创建型设计模式._1_单例设计模式_静态�
         {
             public static readonly HungryClass hungryClass = new HungryClass();
         }
-
-
     }
+
+
 }

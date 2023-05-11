@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="创建型设计模式\4_原型设计模式\" />
+  </ItemGroup>
+
 </Project>
