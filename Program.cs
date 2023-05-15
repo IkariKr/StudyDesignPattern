@@ -7,6 +7,8 @@ using StudyDesignPattern._1_单一职责与开放封闭原则.UsePattern;
 
 using StudyDesignPattern._2_依赖倒置原则.usePattern;
 using StudyDesignPattern.创建型设计模式._1_单利设计模式_懒汉式;
+using StudyDesignPattern.结构型设计模式._2_装饰器设计模式;
+using StudyDesignPattern.结构型设计模式._3_代理设计模式;
 using System.Reflection;
 
 #region 1_单一职责与开放封闭原则.UsePattern;
@@ -65,6 +67,18 @@ Console.ReadKey();
 
 #endregion
 
+#region 装饰器设计模式
 
+装饰器设计模式 main = new 装饰器设计模式();
+main.Main();
+
+#endregion
+
+#region 代理设计模式
+
+代理设计模式 proxyMain = new 代理设计模式();
+proxyMain.Main();
+
+#endregion
 
 
